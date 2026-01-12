@@ -1,1 +1,2 @@
 # SMS-Spam-detection
+This SMS Spam Detection project uses machine learning and NLP to classify messages as spam or genuine. It cleans and processes the text, converts it into features using TF-IDF, and predicts the result using a trained model. Built with Python, Scikit-learn, and NLTK, the system is deployed through a simple Streamlit interface. It demonstrates a practical real-world application of text classification for beginners and students.
